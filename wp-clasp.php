@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name:     Clasp
- * Plugin URI:      PLUGIN SITE HERE
+ * Plugin URI:      https://github.com/CodeProKid/wp-clasp
  * Description:     A hook based approach to WordPress theming
  * Author:          Ryan Kanner
  * Author URI:      http://rkanner.com
